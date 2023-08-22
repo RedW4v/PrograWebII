@@ -1,0 +1,14 @@
+h1{
+    font-size: 3em;
+}
+
+.pa1{
+    color: red;
+}
+.pa2{
+    background-color: brown
+}
+.pa3{
+    color: yellow; 
+    background-color: rgb(9, 38, 117);
+}
