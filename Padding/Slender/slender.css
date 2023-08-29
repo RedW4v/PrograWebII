@@ -1,0 +1,16 @@
+h1{
+    border: 1px solid rgb(195, 233, 92);
+    background-color: rgb(7, 32, 65);
+    color: rgb(179, 145, 95);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p{
+    border: 1px solid rgb(71, 199, 135);
+    background-color: rgb(116, 204, 128);
+    color: rgb(211, 112, 0);
+    font-family: fantasy;
+}
+.slender{
+    width: 20px;
+    height: 250px;
+}

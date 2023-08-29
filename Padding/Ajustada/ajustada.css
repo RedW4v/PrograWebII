@@ -1,0 +1,18 @@
+h1{
+    border: 1px solid red;
+    padding-left: 22px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    background-color: aqua;
+    color: rgb(47, 56, 56);
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    border: 1px solid brown;
+    background-color: aqua;
+    color: rgb(30, 85, 85);
+    font-family: 'Courier New', Courier, monospace;
+}
+.ajustada{
+    width: 400px;
+}
